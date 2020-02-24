@@ -3,7 +3,7 @@
  * @Date: 2020-2-24 16:39:05
  * @LastEditTime : 2020-2-24 16:39:05
  -->
-# whc_wechat_image_edit
+# face-img
 
 [![License Apache2.0](https://img.shields.io/hexpm/l/plug.svg)](https://raw.githubusercontent.com/attentiveness/whcapp/master/LICENSE)
 

@@ -1,0 +1,13 @@
+<view class="container">
+  <image src="../images/whcapp.jpg" class="logo" />
+
+  <view class="auth-tip-content">
+    您暂未授权FaceImg小程序获取你的信息，将无法正常使用小程序的功能。如需要正常使用，请“授权登录”按钮，打开图像，昵称信息的权限。
+  </view>
+
+  <view class="button-bar"> 
+    <button type="primary" plain="true" bindtap="navBackLastPage" class="cencel-btn" style="width:250rpx;margin-right:30rpx;">取消</button>
+    <button type="primary" open-type="getUserInfo" bindgetuserinfo="getUserInfo" hover-class="button-hover" class="login-btn" style="width:250rpx;">授权登录</button>
+  </view>
+
+</view>
